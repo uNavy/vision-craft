@@ -6,26 +6,30 @@
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features) (Coming soon)
+3. 🔋 [Features](#features) (Coming soon 🚧)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets) (Coming soon)
-6. 🔗 [Links](#links) (Coming soon)
-7. 🚀 [More](#more) (Coming soon)
+5. 🕸️ [Snippets](#snippets) (Coming soon 🚧)
+6. 🔗 [Links](#links) (Coming soon 🚧)
+7. 🚀 [More](#more) (Coming soon 🚧)
 
-## 🤖 Introduction
+## <a name="introduction">🤖 Introduction<a/>
 
 Vision Craft is designed to provide various AI-powered image processing features such as image enhancement, background removal, and resizing. This project serves as a hands-on learning experience while building a practical SaaS tool.
 
-## ⚙️ Tech Stack
+## <a name="tech-stack">⚙️ Tech Stack<a/>
 
 - **Frontend**: Next.js, TypeScript, Shadcn UI  
 - **Styling**: Tailwind CSS  
 - **Backend**: MongoDB  
 - **Authentication**: Clerk  
 - **Storage**: Cloudinary  
-- **Payments**: Stripe  
+- **Payments**: Stripe
 
-## 🤸 Quick Start
+
+## <a name="features">🔋 Features</a>
+**Coming Soon 🚧**
+
+## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
