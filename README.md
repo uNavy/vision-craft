@@ -8,7 +8,7 @@ Follow these steps to install Shadcn/ui and verify its setup:
 
 1. **Initialize Shadcn/ui**  
    ```sh
-   npx shadcn-ui@latest init
+   npx shadcn@latest init
    ```  
    This command sets up Shadcn/ui in the project.  
 
