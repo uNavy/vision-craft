@@ -14,7 +14,7 @@ Follow these steps to install Shadcn/ui and verify its setup:
 
 2. **Add the Button Component**  
    ```sh
-   npx shadcn-ui@latest add button
+   npx shadcn@latest add button
    ```  
    We installed the `button` component to test if Shadcn/ui is working properly.  
 
