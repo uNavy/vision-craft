@@ -1,6 +1,6 @@
 ### **README (for this branch only)**  
 
-# 🎨 Vision Craft - Metadata & Styling Updates  
+# 🛠️ Vision Craft - Metadata & Styling Updates  
 
 ## ✨ Changes in this branch:  
 
